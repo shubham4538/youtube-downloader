@@ -1,0 +1,13 @@
+.label {
+  @apply w-24 dark:text-white;
+}
+
+.media-input {
+  @apply flex items-center;
+}
+
+.media-input input,
+.media-input option,
+.media-input select {
+  @apply text-[18px] font-normal;
+}
